@@ -1,0 +1,15 @@
+D:\12-11\2212366_DeskTop_Lab8\bin\Debug\2212366_DeskTop_Lab8.exe.config
+D:\12-11\2212366_DeskTop_Lab8\bin\Debug\2212366_DeskTop_Lab8.exe
+D:\12-11\2212366_DeskTop_Lab8\bin\Debug\2212366_DeskTop_Lab8.pdb
+D:\12-11\2212366_DeskTop_Lab8\bin\Debug\BusinessLogic.dll
+D:\12-11\2212366_DeskTop_Lab8\bin\Debug\DataAccess.dll
+D:\12-11\2212366_DeskTop_Lab8\bin\Debug\BusinessLogic.pdb
+D:\12-11\2212366_DeskTop_Lab8\bin\Debug\DataAccess.pdb
+D:\12-11\2212366_DeskTop_Lab8\obj\Debug\RestaurantManagementProject.csproj.AssemblyReference.cache
+D:\12-11\2212366_DeskTop_Lab8\obj\Debug\_2212366_DeskTop_Lab8.frmFood.resources
+D:\12-11\2212366_DeskTop_Lab8\obj\Debug\_2212366_DeskTop_Lab8.Properties.Resources.resources
+D:\12-11\2212366_DeskTop_Lab8\obj\Debug\RestaurantManagementProject.csproj.GenerateResource.cache
+D:\12-11\2212366_DeskTop_Lab8\obj\Debug\RestaurantManagementProject.csproj.CoreCompileInputs.cache
+D:\12-11\2212366_DeskTop_Lab8\obj\Debug\RestaurantManagementProject.csproj.CopyComplete
+D:\12-11\2212366_DeskTop_Lab8\obj\Debug\2212366_DeskTop_Lab8.exe
+D:\12-11\2212366_DeskTop_Lab8\obj\Debug\2212366_DeskTop_Lab8.pdb
